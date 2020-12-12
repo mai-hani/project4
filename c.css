@@ -1,0 +1,47 @@
+body{
+    background-color: #3c4245;
+    max-width: 700px;
+    margin-left: 250px;
+    font-family: 'Lobster', cursive;
+    color: #3ca59d;
+}
+#refresh{
+    margin-top: 10px;
+    height: 150px;
+    margin-left: 100px;
+    font-size: 6em;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+}
+#players{
+    height: 50px;
+    width: 100px;
+    padding-top: 20px;
+    display: inline;
+    font-size: 25px;
+}
+#player1{
+    float:left;
+    padding-left: 220px;
+}
+#player2{
+    float: right;
+    padding-right: 100px;
+}
+.com{
+    color: white;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.dic{
+  height: 256px;
+  margin-top: 50px;
+}
+.img1{
+  float: left;
+  margin-left: 100px;
+}
+.img2{
+  float: right;
+}
